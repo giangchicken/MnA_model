@@ -2,10 +2,10 @@ fastapi
 uvicorn
 tqdm
 h2o
-sentence-transformers
 numpy
 pandas
-scikit-learn
 argparse
 sentence_transformers
 newspaper4k
+lxml_html_clean
+python-multipart
